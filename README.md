@@ -1,6 +1,6 @@
 # 🌦️ Weather Prediction Project
 
-Welcome to the **WeatherSL ML RandomForest** repository! This project leverages machine learning to analyze and predict weather patterns using a Random Forest algorithm.
+Welcome to the **Weather Prediction** repository! This project leverages machine learning to analyze and predict weather patterns using a Random Forest algorithm.
 
 ---
 
