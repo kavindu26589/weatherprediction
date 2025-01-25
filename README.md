@@ -37,5 +37,5 @@ This repository includes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weathersl-ml-randomforest.git
+   git clone https://github.com/kavindu26589/weatherprediction.git
    cd weathersl-ml-randomforest
